@@ -1,0 +1,40 @@
+﻿<Window x:Class="RightTriangleAppWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        ResizeMode="NoResize"
+        Title="Right Triangle App" Height="300" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Ввод Катет A -->
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Катет A:" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10"/>
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="TextboxA" Margin="10"/>
+
+        <!-- Ввод Катет B -->
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Катет B:" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="10"/>
+        <TextBox Grid.Row="1" Grid.Column="1" x:Name="TextboxB" Margin="10"/>
+
+        <!-- Кнопка Создать треугольник -->
+        <Button Grid.Row="2" Grid.ColumnSpan="3" Content="Создать треугольник" Click="CreateTriangle_Click" Margin="10"/>
+
+        <!-- Информация о Треугольнике -->
+        <TextBox Grid.Row="3" Grid.ColumnSpan="3" x:Name="TriangleInfo" Margin="10" TextWrapping="Wrap"/>
+
+        <!-- Кнопки снизу -->
+
+            <Button Grid.Row="4" Grid.Column="0" Content="Удвоить катеты" Click="IncreaseTriangle_Click" Margin="10"/>
+        <Button Grid.Row="4" Grid.Column="1" Content="Располовинить катеты" Click="DecreaseTriangle_Click" Margin="10"/>
+        <Button Grid.Row="4" Grid.Column="2" Content="Вывести площадь (хз, надо или нет)" Click="ShowArea_Click" Margin="10"/>
+    </Grid>
+</Window>

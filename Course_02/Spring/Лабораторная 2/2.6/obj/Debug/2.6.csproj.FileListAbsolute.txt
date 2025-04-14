@@ -1,0 +1,7 @@
+D:\Program Data\Microsoft Visual Studio\repos\Лаборная 2\2.6\bin\Debug\2.6.exe.config
+D:\Program Data\Microsoft Visual Studio\repos\Лаборная 2\2.6\bin\Debug\2.6.exe
+D:\Program Data\Microsoft Visual Studio\repos\Лаборная 2\2.6\bin\Debug\2.6.pdb
+D:\Program Data\Microsoft Visual Studio\repos\Лаборная 2\2.6\obj\Debug\2.6.csproj.AssemblyReference.cache
+D:\Program Data\Microsoft Visual Studio\repos\Лаборная 2\2.6\obj\Debug\2.6.csproj.CoreCompileInputs.cache
+D:\Program Data\Microsoft Visual Studio\repos\Лаборная 2\2.6\obj\Debug\2.6.exe
+D:\Program Data\Microsoft Visual Studio\repos\Лаборная 2\2.6\obj\Debug\2.6.pdb

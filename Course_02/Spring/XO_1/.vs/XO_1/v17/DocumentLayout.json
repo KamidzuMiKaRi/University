@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Data\\Microsoft Visual Studio\\repos\\XO_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF18875-A742-479F-81CF-7D6D288CB553}|XO_1.vcxproj|D:\\Program Data\\Microsoft Visual Studio\\repos\\XO_1\\XO_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBF18875-A742-479F-81CF-7D6D288CB553}|XO_1.vcxproj|solutionrelative:XO_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XO_1.cpp",
+              "DocumentMoniker": "D:\\Program Data\\Microsoft Visual Studio\\repos\\XO_1\\XO_1.cpp",
+              "RelativeDocumentMoniker": "XO_1.cpp",
+              "ToolTip": "D:\\Program Data\\Microsoft Visual Studio\\repos\\XO_1\\XO_1.cpp",
+              "RelativeToolTip": "XO_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T13:32:39.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

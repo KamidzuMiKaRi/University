@@ -1,0 +1,3 @@
+﻿  1.1.cpp
+D:\Program Files\Project\2023_Summer\Lab_3\1.1\1.1.cpp(118,3): error C2361: пропуск инициализации "current" из-за метки "default"
+D:\Program Files\Project\2023_Summer\Lab_3\1.1\1.1.cpp(107,10): message : см. объявление "current"

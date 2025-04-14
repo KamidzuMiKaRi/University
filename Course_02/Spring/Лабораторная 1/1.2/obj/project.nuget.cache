@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LL/0PBcB1Q=",
+  "success": true,
+  "projectFilePath": "D:\\Program Data\\Microsoft Visual Studio\\repos\\Лаборная 1\\1.2\\1.2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MIKARI\\.nuget\\packages\\fsharp.core\\8.0.300\\fsharp.core.8.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

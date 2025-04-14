@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Data\\Microsoft Visual Studio\\repos\\WinAPI32_X_O\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA6C50D-F0F9-4051-B4AA-6DCF38F29A07}|WinAPI32_X_O.vcxproj|D:\\Program Data\\Microsoft Visual Studio\\repos\\WinAPI32_X_O\\WinAPI32_X_O.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDA6C50D-F0F9-4051-B4AA-6DCF38F29A07}|WinAPI32_X_O.vcxproj|solutionrelative:WinAPI32_X_O.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinAPI32_X_O.cpp",
+              "DocumentMoniker": "D:\\Program Data\\Microsoft Visual Studio\\repos\\WinAPI32_X_O\\WinAPI32_X_O.cpp",
+              "RelativeDocumentMoniker": "WinAPI32_X_O.cpp",
+              "ToolTip": "D:\\Program Data\\Microsoft Visual Studio\\repos\\WinAPI32_X_O\\WinAPI32_X_O.cpp",
+              "RelativeToolTip": "WinAPI32_X_O.cpp",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAYwLAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-17T14:05:36.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

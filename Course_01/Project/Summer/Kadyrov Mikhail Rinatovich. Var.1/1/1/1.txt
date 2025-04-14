@@ -1,0 +1,10 @@
+Audi A3 sedan 2019 30000
+BMW X5 off_road 2007 60000
+Mercedes-Benz C292 coupe 2015 63000
+LADA Granta hatchback 2023 10000
+Ford Focus hatchback 2008 7000
+Skoda Octavia hatchback 2017 4000
+Opel Astra hatchback 2008 9000
+Reno Logan sedan 2012 5500
+Nissan Juke I off_road 2014 15000
+Honda HR-V crossover 2018 23000

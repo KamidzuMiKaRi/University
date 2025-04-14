@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPassenger xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Passenger>
+    <Baggage>
+      <BaggageItem>
+        <Name>Чемодан</Name>
+        <Weight>23.5</Weight>
+      </BaggageItem>
+      <BaggageItem>
+        <Name>Сумка</Name>
+        <Weight>10.2</Weight>
+      </BaggageItem>
+    </Baggage>
+  </Passenger>
+  <Passenger>
+    <Baggage>
+      <BaggageItem>
+        <Name>Коробка</Name>
+        <Weight>12.3</Weight>
+      </BaggageItem>
+      <BaggageItem>
+        <Name>Рюкзак</Name>
+        <Weight>8.1</Weight>
+      </BaggageItem>
+    </Baggage>
+  </Passenger>
+</ArrayOfPassenger>
